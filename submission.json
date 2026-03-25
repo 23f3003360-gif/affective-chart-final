@@ -1,0 +1,8 @@
+{
+  "prompt": "A city skyline of Mumbai seen through rising water, the lower half of buildings submerged, the Gateway of India monument partially underwater, calm ominous water reflecting the sky, muted blue-gray tones, no text, no labels, no chart, no infographic, cinematic lighting, photorealistic, melancholic",
+  "model": "Ideogram 2",
+  "dataset_name": "Sea Level Rise Scenarios for Indian Coastal Cities",
+  "dataset_url": "https://cstep.in/publications/sea-level-rise-scenarios-and-inundation-maps-for-selected-indian-coastal-cities/",
+  "insight": "Mumbai's sea level rose 4.44 cm between 1987-2021. By 2040, over 10% of Mumbai land will be submerged. By 2100, 76.2 cm rise under medium-emission scenario.",
+  "publish_email": true
+}
